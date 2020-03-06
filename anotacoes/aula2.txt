@@ -1,0 +1,10 @@
+Spring Initializr 
+spring data jpa
+spring web
+spring boot devtools
+postgressql driver
+lombok - serve para fazer dotos os getter e setter automaticos e outros metodos basicos da classe
+
+
+para executar o lombok, faz somente uma vez
+usuarios/seuuser/.m2/repository/org/projectlombok/lombok
