@@ -21,4 +21,10 @@ public class IndexController {
 		return "agora é o teste";
 	}
 	
+	@GetMapping("sobre")
+	@ResponseBody
+	public String sobre() {
+		return "disciplina de pw";
+	}
+	
 }
